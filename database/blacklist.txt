@@ -1,0 +1,16 @@
+malware.test
+phishing.test
+bad-domain.com
+evil-site.net
+127.0.0.2
+0.0.0.0
+192.168.1.100
+spam-domain.net
+fake-login.site
+tracker-domain.com
+malicious-ip.net
+virus-download.com
+trojan-server.net
+stealer-host.xyz
+botnet-control.net
+keylogger-host.com
